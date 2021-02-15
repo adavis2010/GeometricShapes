@@ -1,0 +1,13 @@
+C:\repos\Geometric Shapes\Geometric Shapes\bin\Debug\netcoreapp3.1\GeometricShapes.exe
+C:\repos\Geometric Shapes\Geometric Shapes\bin\Debug\netcoreapp3.1\GeometricShapes.deps.json
+C:\repos\Geometric Shapes\Geometric Shapes\bin\Debug\netcoreapp3.1\GeometricShapes.runtimeconfig.json
+C:\repos\Geometric Shapes\Geometric Shapes\bin\Debug\netcoreapp3.1\GeometricShapes.runtimeconfig.dev.json
+C:\repos\Geometric Shapes\Geometric Shapes\bin\Debug\netcoreapp3.1\GeometricShapes.dll
+C:\repos\Geometric Shapes\Geometric Shapes\bin\Debug\netcoreapp3.1\GeometricShapes.pdb
+C:\repos\Geometric Shapes\Geometric Shapes\obj\Debug\netcoreapp3.1\GeometricShapes.csprojAssemblyReference.cache
+C:\repos\Geometric Shapes\Geometric Shapes\obj\Debug\netcoreapp3.1\GeometricShapes.AssemblyInfoInputs.cache
+C:\repos\Geometric Shapes\Geometric Shapes\obj\Debug\netcoreapp3.1\GeometricShapes.AssemblyInfo.cs
+C:\repos\Geometric Shapes\Geometric Shapes\obj\Debug\netcoreapp3.1\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\repos\Geometric Shapes\Geometric Shapes\obj\Debug\netcoreapp3.1\GeometricShapes.dll
+C:\repos\Geometric Shapes\Geometric Shapes\obj\Debug\netcoreapp3.1\GeometricShapes.pdb
+C:\repos\Geometric Shapes\Geometric Shapes\obj\Debug\netcoreapp3.1\GeometricShapes.genruntimeconfig.cache
