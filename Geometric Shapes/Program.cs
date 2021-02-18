@@ -4,6 +4,9 @@ namespace GeometricShapes {
     class Program {
         static void Main(string[] args) {
 
+            var sqr1 = new Sqr(5);
+                Console.WriteLine($"Sqr1 perimeter is {sqr1.Perimeter()}, area is {sqr1.Area()}");
+
             var rect1 = new Rectangle (6,4);
             Console.WriteLine($"rect1 perimeter is {rect1.Perimeter()}, area is {rect1.Area()}");
 
